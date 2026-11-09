@@ -22,7 +22,7 @@ exports.handler = async (event) => {
               [
                 {
                   text: "🚀 Abrir Mini App",
-                  web_app: { url: "https://tu-proyecto.netlify.app" } 
+                  web_app: { url: "https://telegraphplus.netlify.app/" } 
                 }
               ]
             ]
